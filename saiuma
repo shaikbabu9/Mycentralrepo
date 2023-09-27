@@ -1,1 +1,14 @@
-DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.
+DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market
+
+this is the second line from the ec2 terminal to the git account
+
++--- GitHub Organization
+    +--- Project 1
+        +--- master
+        +--- feature-branch-a
+        +--- feature-branch-b
+    +--- Project 2
+        +--- master
+        +--- pull-request-1
+        +--- etc...
+
